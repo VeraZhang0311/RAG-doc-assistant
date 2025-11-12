@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE settings
+.idea/
+.vscode/
+
+# App data / runtime data
+uploads/
+chroma_data/
+*.sqlite3
+*.db
+
+# Logs
+*.log
